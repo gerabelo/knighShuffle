@@ -1,0 +1,23 @@
+table {
+	background-image:url("../img/knight.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size:contain;
+	margin:auto;
+	margin-top: 100px;
+	text-align:center;
+}
+
+input { 
+    text-align: center; 
+}
+
+h3 {
+	padding-top: 100px;
+	text-align: center;
+}
+
+.solution {
+	text-align:center;
+	margin-top: 50px;
+}
